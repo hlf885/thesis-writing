@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文返稿审校"
+  short_description: "保持作者文风的英文论文返稿、图表与技术审查"
+  default_prompt: "使用 $paper-revision-guardian 审校指定英文论文，最小必要修改，保持原文文风，记录未经核实的技术风险。"
