@@ -13,6 +13,14 @@ A Codex Skill for **minimal, evidence-grounded revision of English scientific pa
 - Flags symbol, dimension, algorithm, complexity and proof issues; freezes unverified mathematical expressions.
 - Preserves LaTeX labels, references, citations, formatting and journal-specific constraints.
 - Reports verified edits and remaining technical uncertainty separately in Chinese.
+- Audits scientific figures, including algorithm workflows,
+  system architectures, experimental comparisons, and statistical
+  plots. Checks consistency with the manuscript's existing visual
+  style, including color palettes, typography, spacing, and layout.
+  Verifies plotted values against available source data, analysis
+  results, and textual claims. Enforces watermark-free publication
+  figures while preserving required attribution and reporting
+  unverifiable results explicitly.
 
 ## Install (Windows Codex)
 

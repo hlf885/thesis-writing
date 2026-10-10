@@ -3,8 +3,10 @@ name: paper-revision-guardian
 description: >-
   Academic manuscript revision for English research papers: preserve the author's
   voice, remove unnecessary defensive prose, audit figures, tables, mathematics,
-  algorithms, LaTeX, journal compliance and reviewer responses. 论文返稿、英文润色、
-  保持原文风格、去AI味、防御性写作、图注表注、公式算法审校。
+  algorithms, LaTeX, journal compliance, reviewer responses, visual-style
+  consistency for scientific figures, numerical and statistical plot verification,
+  and watermark-free publication figures. 论文返稿、英文润色、保留原文风格、
+  反防御性写作、图表配色布局一致性、实验数据及统计图核验、无水印图像审查。
 ---
 
 # Paper Revision Guardian | 英文论文返稿审校
@@ -27,13 +29,31 @@ Do not invent experimental results, numerical improvements, citations, code exec
 2. Read enough unchanged prose to characterize the original author's sentence rhythm, terminology, transitions, tense and degree of detail. Never normalize the entire manuscript to generic AI academic prose.
 3. Classify findings as A (demonstrable error), B (necessary editorial improvement), or C (scientific claim requiring additional proof). Edit A and justified B; document unverified C without silently changing it.
 4. Consult `references/style-and-argument.md` to judge defensive language, logical structure, report-like Stage 1/2 and numbered narrative lists. Retain meaningful procedural or algorithmic enumeration.
-5. For figures/tables consult `references/figures-and-tables.md` and visually inspect actual evidence, panel labels, units, values, captions, first mentions and placement. Never assert content agreement without viewing the figure/table.
+5. For figures/tables consult `references/figures-and-tables.md`
+and visually inspect actual evidence, panel labels, units, values, captions, first mentions and placement. When the task involves algorithm diagrams, system workflows, architecture figures,experimental plots, statistical charts, visual-style consistency,figure regeneration or watermark risks, additionally read `references/visual-assets-and-watermarks.md`.Never assert figure/data agreement without inspecting the corresponding evidence.
 6. For mathematical methods consult `references/math-and-algorithms.md`: verify symbols, dimensions, constraints, assumptions, pseudocode updates, termination and complexity. Retain equations unless an error is proven and correction authorized.
 7. For citations, templates and formatting consult `references/journal-and-latex.md`. Verify current journal-specific rules from primary guidance, preserve LaTeX math, labels, refs, bibliography, commands and formatting.
 8. For journal reviewer replies consult `references/reviewer-response.md` and trace each reviewer concern to evidence, source location, revision and response.
 9. Revise only the authorized region, preferably in a copy or diff. Eliminate edits whose only effect is swapping synonyms or manufacturing academic-sounding language.
 10. Independently recheck modified claims, citations, figures, tables, math, tone and changes against the original. Report limitations of what was actually checked.
 
+## Visual figure integrity (required when figures are in scope)
+
+- Read `references/visual-assets-and-watermarks.md` when the work involves
+  algorithm diagrams, workflows, architectures, experimental charts, statistical
+  figures or figure regeneration. Match existing color, panel, line, typography,
+  layout and caption conventions unless correction is justified.
+- Verify plotted values and statistical claims against accessible source data,
+  scripts, tables and analysis outputs. Check axes, units, legends, aggregation,
+  uncertainty displays and significance claims where applicable. Distinguish
+  visual checks from reproducible numerical validation; do not fabricate data.
+- Inspect each relevant final figure for visible watermarks, screenshot marks,
+  stock-preview overlays and irrelevant logos. Reject watermarked publication
+  assets; obtain authorized clean sources or redraw from legitimately usable
+  material instead of erasing third-party attribution.
+- Record the source, checks performed, unresolved risks and figure-specific
+  validation status. Preserve scientific meaning and the unmodified originals.
+  
 ## Language and structure
 
 Use plain precise formal English; avoid contractions, overused stock phrases and unnecessary ornament. Preserve appropriate real logical transitions. Do not categorically ban semicolons, possessives or passive voice. Do not add ornamental bold/italic. Prefer coherent paragraphs over mechanical First/Second/Third or (1)/(2), but retain numbered algorithms, proofs, procedures and explicitly referenced technical stages.

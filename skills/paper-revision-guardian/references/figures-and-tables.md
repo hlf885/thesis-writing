@@ -7,3 +7,14 @@ For figures check panel labels, axes, units, legends, line/style colors, bounds,
 For tables check numerical statements, best/worst, rankings, percentage changes, rounding, metric direction, dataset names, statistical markers, baseline comparability and units. Caption identifies what is compared; table notes clarify symbols and conditions; narrative interprets key evidence without duplicating every cell. Report mismatches with exact table/figure reference and proposed correction.
 
 If image/data are missing, state precisely that the item could not be verified.
+
+## Visual asset and data integrity
+
+For visual-style continuity, experiment/statistics-to-figure provenance,
+regenerated scientific diagrams and watermark checks, additionally follow
+`visual-assets-and-watermarks.md`.
+
+Visual inspection alone is not proof of underlying numerical correctness.
+Check source datasets, plotting scripts, statistical outputs and manuscript
+tables when available. Clearly report which checks were completed and
+which results remain unverified.
