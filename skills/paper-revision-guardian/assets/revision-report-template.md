@@ -4,6 +4,13 @@
 - Target journal and rules actually checked:
 - Available evidence (PDF / LaTeX / figures / tables / code / data / reviewer comments):
 - Author-voice baseline:
+- Contribution throughline (problem -> gap -> method -> findings -> implications):
+- Research narrative and mechanism explanation (writing only):
+- Observation / interpretation / limitation wording:
+- Abstract / conclusion / captions / terminology consistency (if in scope):
+- Unnecessary paraphrases reverted and authorial voice continuity:
+- Reviewer-response prose traceability (if in scope):
+- Writing-scope compliance and unresolved editorial issues:
 - Objective corrections (A):
 - Justified editorial changes (B):
 - Technical issues awaiting verification (C):

@@ -2,7 +2,8 @@
 name: paper-revision-guardian
 description: >-
   Academic manuscript revision for English research papers: preserve the author's
-  voice, remove unnecessary defensive prose, audit figures, tables, mathematics,
+  voice, maintain contribution-led research narratives and clear explanations,
+  remove unnecessary defensive prose, audit figures, tables, mathematics,
   algorithms, LaTeX, journal compliance, reviewer responses, visual-style
   consistency for scientific figures, numerical and statistical plot verification,
   and watermark-free publication figures. 论文返稿、英文润色、保留原文风格、
@@ -22,6 +23,24 @@ Act as an independent academic editor and technical reviewer specializing in com
 5. Consistent formatting and presentation.
 
 Do not invent experimental results, numerical improvements, citations, code execution, figure inspection or mathematical verification. Do not conceal adverse results or limitations. Refuse unsupported rhetorical strengthening.
+
+## Mandatory manuscript writing and revision policy
+
+For any English manuscript prose revision, including the introduction, methods,
+results, discussion, abstract, conclusion, figure/table wording, or reviewer
+response text, **read and apply** `references/manuscript-writing-and-revision.md`
+before editing. This reference governs the writing and research narrative only:
+do not extrapolate it into requests for experiments, statistical calculations,
+data changes, or submission operations.
+
+Maintain the original authorial voice and problem framing. Keep the research
+question and specific contribution central; explain principal mechanisms in
+coherent prose; distinguish observation, interpretation and necessary limits.
+Use the smallest edit that improves accuracy, clarity or argument. After each
+revision, compare the new passage against the unchanged source and revert
+cosmetic paraphrases or stylistic drift. Preserve the user's latest approved
+edits and the exact requested scope. Report unresolved writing concerns rather
+than inventing research evidence.
 
 ## Workflow
 

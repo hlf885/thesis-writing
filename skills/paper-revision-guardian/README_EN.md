@@ -7,6 +7,12 @@ A Codex Skill for **minimal, evidence-grounded revision of English scientific pa
 ## What it does
 
 - Preserves natural original prose and revises only when accuracy, clarity or logic materially improves.
+- **Contribution-led manuscript writing audit:** Preserves the author's voice
+  while checking the research narrative, mechanism explanations, novelty
+  statements, results-versus-discussion writing, abstract and conclusion,
+  concise limitations, captions, and reviewer responses. Applies only to
+  authorized text editing, without initiating research operations. See the
+  [full writing policy](references/manuscript-writing-and-revision.md).
 - Removes gratuitous defensive phrasing while retaining genuine limitations, adverse results and review-mandated disclosures.
 - Converts narrative Stage 1/2 and First/Second/Third lists to coherent paragraphs when enumeration serves no technical purpose.
 - Compares figure/table captions and textual claims to available visual and numerical evidence.

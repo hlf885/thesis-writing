@@ -1,5 +1,10 @@
 # Author Voice, Arguments and Anti-defensive Writing
 
+For full manuscript prose editing, contribution-led research narrative, abstract,
+results/discussion separation, caption wording, and reviewer-response writing,
+also apply `manuscript-writing-and-revision.md`. It governs writing only; do not
+use it to initiate experiments, statistical computations, or publication tasks.
+
 Compare with representative untouched author prose before editing. Keep natural vocabulary, sentence structure, disciplinary terminology and paragraph pacing. Prefer focused corrections. Reject edits performed solely for variation.
 
 Every sentence should advance the argument, state an observable result, establish a condition, describe methodology, or provide needed context. Remove redundant apologies, repeated claims of modesty, imagined reviewer attacks and generic marketing adjectives. Keep real shortcomings, failure modes, adverse results, assumptions and limitations.
