@@ -47,4 +47,8 @@ $paper-revision-guardian
 
 [中文安装说明](docs/INSTALLATION_ZH.md) · [English installation](docs/INSTALLATION_EN.md)
 
+[完整中文论文返修写作规范](docs/WRITING_POLICY_ZH.md) · [英文执行规则](references/manuscript-writing-and-revision.md)
+
+[中文工作流程](docs/WORKFLOW_ZH.md) · [English workflow](docs/WORKFLOW_EN.md) · [中文使用示例](docs/EXAMPLES_ZH.md) · [English examples](docs/EXAMPLES_EN.md)
+
 参考启发：[anti-defensive-writing-Skill](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill)、[awesome-ai-research-writing](https://github.com/hlf885/awesome-ai-research-writing)。本 Skill 是独立整理版本，不代表原项目。

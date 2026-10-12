@@ -8,7 +8,9 @@ A growing collection of Codex Skills for academic manuscript drafting, revision,
 
 | Skill | Purpose | Chinese | English |
 | --- | --- | --- | --- |
-| **paper-revision-guardian** | Preserve author voice during English manuscript revisions; reduce unnecessary defensive writing; audit figures, tables, mathematics and reviewer responses | [中文](skills/paper-revision-guardian/README.md) | [English](skills/paper-revision-guardian/README_EN.md) |
+| **paper-revision-guardian** | Preserve authorial voice; improve contribution-led research narratives, mechanism explanations and reviewer responses; reduce defensive prose; audit figures, equations and algorithms | [中文](skills/paper-revision-guardian/README.md) | [English](skills/paper-revision-guardian/README_EN.md) |
+
+Full writing policy: [English, 14 rules](skills/paper-revision-guardian/references/manuscript-writing-and-revision.md) · [中文说明](skills/paper-revision-guardian/docs/WRITING_POLICY_ZH.md) · [English usage examples](skills/paper-revision-guardian/docs/EXAMPLES_EN.md)
 
 ## Installation (Windows Codex)
 

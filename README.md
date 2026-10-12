@@ -10,9 +10,11 @@
 
 | Skill | 主要用途 | 中文说明 | English |
 | --- | --- | --- | --- |
-| **paper-revision-guardian**（英文论文返稿） | 语言与论证审校；反防御性写作；保留原作者风格；核查图表、公式、伪代码与审稿回复 | [中文介绍](skills/paper-revision-guardian/README.md) | [English overview](skills/paper-revision-guardian/README_EN.md) |
+| **paper-revision-guardian**（英文论文返稿） | 保持作者文风；审校贡献主线、研究叙事、机制解释与审稿回复；减少防御性写作；核查图表、公式及算法 | [中文介绍](skills/paper-revision-guardian/README.md) | [English overview](skills/paper-revision-guardian/README_EN.md) |
 
 这里只列出已经实现的 Skill。新增 Skill 应以独立子目录发布，并更新本索引。
+
+本 Skill 的完整写作规范：[中文 14 条](skills/paper-revision-guardian/docs/WRITING_POLICY_ZH.md) · [English policy](skills/paper-revision-guardian/references/manuscript-writing-and-revision.md) · [中文调用示例](skills/paper-revision-guardian/docs/EXAMPLES_ZH.md)
 
 ## 安装（Windows Codex）
 
@@ -49,9 +51,7 @@ thesis-writing/
 │       ├── references/
 │       ├── scripts/
 │       ├── assets/
-│       ├── docs/
-│       └── tests/
-└── .github/workflows/             # 校验
+│       └── docs/                    # 安装、工作流程、示例与写作规范
 ```
 
 ## 新增 Skill 的约定
@@ -67,4 +67,4 @@ thesis-writing/
 
 ## 研究诚信、许可与隐私
 
-不得公开未发表论文、敏感审稿意见、个人身份信息、实验原始数据或 API 密钥。本仓库尚未选定统一开源许可证；见[许可与归属说明](skills/paper-revision-guardian/docs/LICENSING_ZH.md)。
+不得公开未发表论文、敏感审稿意见、个人身份信息、实验原始数据或 API 密钥。本仓库尚未选定统一开源许可证。在明确授权前，不应假定所有内容可自由复制、修改或再分发。

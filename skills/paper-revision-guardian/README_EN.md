@@ -53,4 +53,8 @@ The Skill does not guarantee scientific correctness, ideal float placement, elim
 
 [English installation guide](docs/INSTALLATION_EN.md) · [中文安装说明](docs/INSTALLATION_ZH.md)
 
+[Full Writing and Revision Policy](references/manuscript-writing-and-revision.md) · [Chinese Policy Guide](docs/WRITING_POLICY_ZH.md)
+
+[English workflow](docs/WORKFLOW_EN.md) · [中文工作流程](docs/WORKFLOW_ZH.md) · [Usage examples](docs/EXAMPLES_EN.md) · [中文示例](docs/EXAMPLES_ZH.md)
+
 Inspired by [anti-defensive-writing-Skill](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill) and [awesome-ai-research-writing](https://github.com/hlf885/awesome-ai-research-writing). This is an independently organized skill, not an official fork or mirror.
